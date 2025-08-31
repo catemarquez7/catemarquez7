@@ -8,6 +8,7 @@
 
 ## 📖 Sobre mi
 pumpumpum
+nakjlnbflsr 
 
 ---
 
@@ -20,8 +21,8 @@ pumpumpum
 ---
 
 ## 💌 Contacto
-<div align="center"> <a href="https://mail.google.com/mail/?view=cm&fs=1&to=tuemail@gmail.com">
-  <img src="https://img.shields.io/badge/Enviame%20un%20mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviame un mail"/>
+<div align="center"> <a href="https://mail.google.com/mail/?view=cm&fs=1&to=loumarquez149@gmail.com">
+  <img src="https://img.shields.io/badge/Enviame%20un%20mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"/>
 </a>
 </div>
 
