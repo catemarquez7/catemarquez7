@@ -24,13 +24,13 @@ nakjlnbflsr
 <table>
   <tr>
     <td>
-      <h3><b>Administración de hoteles</b></h3>
+      <h3><b>🏠 Administración de hoteles</b></h3>
       <a href="https://github.com/catemarquez7/proyectoAvanzada">Ver Repo</a>
       <p>Programa en Java para la gestión de una cadena de hoteles.</p>
       <br>
     </td>
      <td>
-      <h3><b>Cuenta bancaria</b></h3>
+      <h3><b>🏦 Cuenta bancaria</b></h3>
        <a href="https://github.com/catemarquez7/trabajoPracticoBanco">Ver Repo</a>
        <br>
       <p>Simulador en Java de una cuenta bancaria, con transferencias, depositos y demás operaciones. </p>
@@ -39,16 +39,16 @@ nakjlnbflsr
   </tr>
   <tr>
     <td>
-      <h3><b>Web Cosmere - Brandon Sanderson</b></h3>
+      <h3><b>🪐 Web Cosmere - Brandon Sanderson</b></h3>
       <a href="https://github.com/catemarquez7/cosmereBrandonSanderson">Ver Repo</a>
-      <p>Pâgina web sobre el universo literario del autor, con foro de reseñas.</p>
+      <p>Página web sobre el universo literario del autor, con foro de reseñas.</p>
       <br>
     </td>
      <td>
-      <h3><b>Web Eterna Cadencia</b></h3>
+      <h3><b>☕️ Web Eterna Cadencia</b></h3>
        <a href="https://github.com/catemarquez7/eternaCadencia">Ver Repo</a>
        <br>
-      <p>Pâgina web sobre la librería y cafetería.</p>
+      <p>Página web sobre la librería y cafetería.</p>
        <br>
     </td>
   </tr>
