@@ -19,6 +19,6 @@ pumpumpum
 ---
 
 ### 💌 Contacto
-[Email](https://img.shields.io/badge/Email-Enviar-blue?style=for-the-badge&logo=gmail)](mailto:loumarquez149@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Enviar-blue?style=for-the-badge&logo=gmail)](mailto:loumarquez149@gmail.com)
 
 
