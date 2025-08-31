@@ -1,3 +1,5 @@
+<div align="center">
+
 #  Buenas! ✨ Soy Caterina Marquez
 
 ---
@@ -18,4 +20,4 @@ pumpumpum
 ## 💌 Contacto
 [Enviame un mail](https://mail.google.com/mail/?view=cm&fs=1&to=loumarquez149@gmail.com)
 
-
+</div>
