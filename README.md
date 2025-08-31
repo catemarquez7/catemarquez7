@@ -21,9 +21,11 @@ nakjlnbflsr
 ---
 
 ## 🔧 Mis proyectos
-<a href="https://github.com/catemarquez7/trabajoPracticoBanco.git">
-  <img src="https://img.shields.io/badge/Portfolio%203D-3D-blue?style=for-the-badge" alt="Repo"/>
-</a>
+<div style="border:1px solid #000; padding:15px; width:250px; display:inline-block; margin:10px; text-align:left;">
+  <h3>Cuenta Bancaria</h3>
+  <p>Programa</p>
+  <a href="https://github.com/catemarquez7/trabajoPracticoBanco">Ver Repo</a>
+</div>
 
 
 ---
