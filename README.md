@@ -20,10 +20,8 @@ pumpumpum
 ---
 
 ## 💌 Contacto
-<div align="center"> <a href="https://mail.google.com/mail/?view=cm&fs=1&to=loumarquez149@gmail.com" 
-   style="text-decoration:none; display:inline-block; background-color:#D14836; color:white; 
-          padding:10px 25px; border-radius:8px; font-weight:bold; font-family:sans-serif;">
-  ✉️ Enviame un mail
+<div align="center"> <a href="https://mail.google.com/mail/?view=cm&fs=1&to=loumarquez149@gmail.com">
+  Enviame un mail
 </a>
 </div>
 
