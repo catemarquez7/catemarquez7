@@ -4,7 +4,7 @@
 
 ---
 
-## 🌱 Sobre mi
+## 📖 Sobre mi
 pumpumpum
 
 ---
