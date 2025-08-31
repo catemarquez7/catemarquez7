@@ -24,14 +24,20 @@ nakjlnbflsr
 <table>
   <tr>
     <td>
-      <h4><b>Portfolio 3D</b></h4><br>
-       <a href="https://github.com/gonzaarancibia/portfolio3d">Ver Repo</a><br>
-      <p>Proyecto interactivo en 3D usando Three.js<br></p>
+      <h4><b>Portfolio 3D</b></h4>
+      <br>
+       <a href="https://github.com/gonzaarancibia/portfolio3d">Ver Repo</a>
+      <br>
+      <p>Proyecto interactivo en 3D usando Three.js</p>
+      <br>
     </td>
      <td>
-      <h4><b>Portfolio 3D</b></h4><br>
-       <a href="https://github.com/gonzaarancibia/portfolio3d">Ver Repo</a><br>
-      <p>Proyecto interactivo en 3D usando Three.js<br></p>
+      <h4><b>Portfolio 3D</b></h4>
+       <br>
+       <a href="https://github.com/gonzaarancibia/portfolio3d">Ver Repo</a>
+       <br>
+      <p>Proyecto interactivo en 3D usando Three.js</p>
+       <br>
     </td>
   </tr>
 </table>
