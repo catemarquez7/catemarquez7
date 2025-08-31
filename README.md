@@ -21,11 +21,20 @@ nakjlnbflsr
 ---
 
 ## 🔧 Mis proyectos
-<div style="border:1px solid #000; padding:15px; width:250px; display:inline-block; margin:10px; text-align:left;">
-  <h3>Cuenta Bancaria</h3>
-  <p>Programa</p>
-  <a href="https://github.com/catemarquez7/trabajoPracticoBanco">Ver Repo</a>
-</div>
+<table>
+  <tr>
+    <td>
+      <b>Portfolio 3D</b><br>
+      Proyecto interactivo en 3D usando Three.js<br>
+      <a href="https://github.com/gonzaarancibia/portfolio3d">Ver Repo</a>
+    </td>
+    <td>
+      <b>Reseñas de Películas</b><br>
+      Web para reseñar películas con comentarios<br>
+      <a href="https://github.com/tuusuario/tu-repo">Ver Repo</a>
+    </td>
+  </tr>
+</table>
 
 
 ---
