@@ -1,4 +1,4 @@
-#  Caterina Marquez
+#  Buenas! ✨ Soy Caterina Marquez
 
 ---
 
@@ -9,16 +9,17 @@ pumpumpum
 
 ### 👩🏻‍💻Tecnologías que manejo
 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=ffffff)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=ffffff)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+
 
 
 ---
 
 ### 💌 Contacto
-[![Email](https://img.shields.io/badge/Email-Enviar-blue?style=for-the-badge&logo=gmail)](mailto:loumarquez149@gmail.com)
+[Enviame un mail](https://mail.google.com/mail/?view=cm&fs=1&to=loumarquez149@gmail.com)
 
 
