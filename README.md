@@ -21,7 +21,9 @@ nakjlnbflsr
 ---
 
 ## 🔧 Mis proyectos
-[Cuenta bancaria](https://github.com/catemarquez7/trabajoPracticoBanco.git)
+<a href="https://github.com/catemarquez7/trabajoPracticoBanco.git">
+  <img src="https://img.shields.io/badge/Portfolio%203D-3D-blue?style=for-the-badge" alt="Repo"/>
+</a>
 
 
 ---
