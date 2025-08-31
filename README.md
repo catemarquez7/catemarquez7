@@ -20,6 +20,6 @@ pumpumpum
 ---
 
 ## 💌 Contacto
-<div align="center"> [Enviame un mail](https://mail.google.com/mail/?view=cm&fs=1&to=loumarquez149@gmail.com) </div>
+<div align="center"> [![Enviame un mail](https://img.shields.io/badge/Email-Enviar-blue?style=for-the-badge&logo=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=loumarquez149@gmail.com) </div>
 
 
