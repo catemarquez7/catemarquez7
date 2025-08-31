@@ -24,7 +24,7 @@ nakjlnbflsr
 <table>
   <tr>
     <td>
-      <h3><b>🏠 Administración de hoteles</b></h3>
+      <h3><b>🏢 Administración de hoteles</b></h3>
       <a href="https://github.com/catemarquez7/proyectoAvanzada">Ver Repo</a>
       <p>Programa en Java para la gestión de una cadena de hoteles.</p>
       <br>
