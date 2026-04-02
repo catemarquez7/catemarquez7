@@ -7,8 +7,7 @@
 ---
 
 ## 📖 Sobre mi
-pumpumpum
-nakjlnbflsr 
+Soy estudiante de Analista de Sistemas en Escuela Da Vinci. Me considero una persona responsable y comprometida. Busco desarrollarme profesionalmente en proyectos significativos.
 
 ---
 
