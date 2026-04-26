@@ -1,53 +1,59 @@
-<div align="center">
+## Buenas, soy Caterina Marquez
+Estudiante de **Analista de Sistemas** en Escuela Da Vinci. 
+Me interesa el desarrollo de software, el diseño de aplicaciones y el análisis de proyectos.
+---
 
-#  Buenas! ✨ Soy Caterina Marquez
+### Tecnologías que manejo
+#### Desarrollo de software
+- Java
 
-</div>
+#### Desarrollo web
+- HTML5
+- CSS3
+- PHP
+- Wordpress
+
+#### Bases de datos
+- MySql
+
+#### Herramientas
+- Diseño UX / UI
+- Correcta documentación de proyectos
+- Git & GitHub
+- Metodologías ágiles (Scrum y Kanban)
 
 ---
 
-## 📖 Sobre mi
-Soy estudiante de Analista de Sistemas en Escuela Da Vinci. Me considero una persona responsable y comprometida. Busco desarrollarme profesionalmente en proyectos significativos.
-
----
-
-## 👩🏻‍💻Tecnologías que manejo
-<div align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
-</div>
-
-
----
-
-## 🔧 Mis proyectos
+###  Mis proyectos
 <table>
   <tr>
     <td>
-      <h3><b>🏢 Administración de hoteles</b></h3>
-      <a href="https://github.com/catemarquez7/proyectoAvanzada">Ver repo</a>
-      <p>Programa en Java para la gestión de una cadena de hoteles.</p>
+      <h3><b>🏢 Sistema de administración hotelera</b></h3>
+      (https://github.com/catemarquez7/HouseHunter)
+      <p>Programa desarrollado en Java, utilizando conceptos de POO. <br> Se centra en la gestión de reservas y manejo de habitaciones de una cadena de hoteles. También posee login y registro de clientes. </p>
       <br>
     </td>
      <td>
       <h3><b>🏦 Cuenta bancaria</b></h3>
-       <a href="https://github.com/catemarquez7/trabajoPracticoBanco">Ver repo</a>
+       (https://github.com/catemarquez7/trabajoPracticoBanco)
        <br>
-      <p>Simulador en Java de una cuenta bancaria, con transferencias, depositos y demás operaciones. </p>
+      <p>Simulador en Java de una cuenta bancaria, con transferencias, depositos y demás operaciones y validaciones. </p>
        <br>
     </td>
   </tr>
   <tr>
     <td>
-      <h3><b>🪐 Web Cosmere - Brandon Sanderson</b></h3>
-      <a href="https://github.com/catemarquez7/cosmereBrandonSanderson">Ver repo</a>
-      <p>Página web sobre el universo literario del autor, con foro de reseñas.</p>
+      <h3><b>🪐 Web Cosmere - Foro de reseñas</b></h3>
+      (https://github.com/catemarquez7/cosmereBrandonSanderson)
+      <p>Página web desarrollada con PHP, CSS y HTML, utiliza base de datos MySql. <br> 
+        Se centra en el universo literario de Brandon Sanderson y en la interacción entre usuarios con el foro de reseñas.</p>
       <br>
     </td>
      <td>
       <h3><b>☕️ Web Eterna Cadencia</b></h3>
-       <a href="https://github.com/catemarquez7/eternaCadencia">Ver repo</a>
+      (https://github.com/catemarquez7/eternaCadencia)
        <br>
-      <p>Página web sobre la librería y cafetería.</p>
+      <p>Página web sobre la librería y cafetería. Se enfoca en mayoritariamente en el diseño y clara navegación.</p>
        <br>
     </td>
   </tr>
@@ -56,10 +62,7 @@ Soy estudiante de Analista de Sistemas en Escuela Da Vinci. Me considero una per
 
 ---
 
-## 💌 Contacto
-<div align="center"> <a href="https://mail.google.com/mail/?view=cm&fs=1&to=loumarquez149@gmail.com">
-  <img src="https://img.shields.io/badge/Email%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"/>
-</a>
-</div>
+### Contacto
+Email: loumarquez149@gmail.com 
 
 
