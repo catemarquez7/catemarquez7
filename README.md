@@ -1,7 +1,9 @@
 ## Buenas, soy Caterina Marquez
+
 Estudiante de **Analista de Sistemas** en Escuela Da Vinci. 
 Me interesa el desarrollo de software, el diseño de aplicaciones y el análisis de proyectos.
----
+
+
 
 ### Tecnologías que manejo
 #### Desarrollo de software
