@@ -1,11 +1,11 @@
-## Buenas, soy Caterina Marquez
+## 🧡 Buenas, soy Caterina Marquez 
 
-Estudiante de **Analista de Sistemas** en Escuela Da Vinci. 
+Estudiante de **Analista de Sistemas** en Escuela Da Vinci. <br>
 Me interesa el desarrollo de software, el diseño de aplicaciones y el análisis de proyectos.
 
 
 
-### Tecnologías que manejo
+### 🖥️ Tecnologías que manejo
 #### Desarrollo de software
 - Java
 
@@ -26,7 +26,7 @@ Me interesa el desarrollo de software, el diseño de aplicaciones y el análisis
 
 ---
 
-###  Mis proyectos
+### 🔧 Mis proyectos
 <table>
   <tr>
     <td>
@@ -64,7 +64,7 @@ Me interesa el desarrollo de software, el diseño de aplicaciones y el análisis
 
 ---
 
-### Contacto
+### 📱 Contacto
 Email: loumarquez149@gmail.com 
 
 
