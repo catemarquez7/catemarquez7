@@ -6,17 +6,21 @@ Me interesa el desarrollo de software, el diseño de aplicaciones y el análisis
 ---
 
 ### 🖥️ Tecnologías que manejo
-#### Desarrollo de software
+#### Desarrollo de software / aplicaciones
 - Java
+- Python
 
 #### Desarrollo web
 - HTML5
 - CSS3
+- JavaScript
 - PHP
 - Wordpress
 
 #### Bases de datos
 - MySql
+- SQLite
+- MongoDB
 
 #### Herramientas
 - Diseño UX / UI
