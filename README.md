@@ -23,8 +23,8 @@ Me interesa el desarrollo de software, el diseño de aplicaciones y el análisis
 - MongoDB
 
 #### Herramientas
+- Correcta documentación y modelado de proyectos
 - Diseño UX / UI
-- Correcta documentación de proyectos
 - Git & GitHub
 - Metodologías ágiles (Scrum y Kanban)
 
