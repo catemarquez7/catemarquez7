@@ -4,7 +4,7 @@ Estudiante de **Analista de Sistemas** en Escuela Da Vinci. <br>
 Me interesa el desarrollo de software, el diseño de aplicaciones y el análisis de proyectos.
 
 ---
-
+ 
 ### 🖥️ Tecnologías que manejo
 #### Desarrollo de software / aplicaciones
 - Java
