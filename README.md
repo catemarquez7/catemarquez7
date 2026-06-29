@@ -1,7 +1,7 @@
 ## 🧡 Buenas, soy Caterina Marquez 
 
 Estudiante de **Analista de Sistemas** en Escuela Da Vinci. <br>
-Me interesa el desarrollo de software, el diseño de aplicaciones y el análisis de proyectos.
+Me interesa el desarrollo de software, el diseño de aplicaciones y el análisis de datos.
 
 ---
  
@@ -18,9 +18,8 @@ Me interesa el desarrollo de software, el diseño de aplicaciones y el análisis
 - Wordpress
 
 #### Bases de datos
-- MySql
-- SQLite
-- MongoDB
+- SQL (MySql, SQLite)
+- Firebase
 
 #### Herramientas
 - Correcta documentación y modelado de proyectos
